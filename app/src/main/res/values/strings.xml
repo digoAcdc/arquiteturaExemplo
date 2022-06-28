@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArquiteturaExemplo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="txt_Usuario">Usuário</string>
+    <string name="txt_Senha">Senha</string>
+    <string name="txt_Continuar">Continuar</string>
+    <string name="txt_planeta">planeta</string>
+</resources>
